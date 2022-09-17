@@ -44,7 +44,7 @@ The input to Prophet is always a data frame with two columns: ds and y. The ds (
 The formula is :
 
 
- <p align="center"> **y(t) = g(t) + s(t) + h(t) + e(t)**
+ <p align="center"> <strong >y(t) = g(t) + s(t) + h(t) + e(t)</strong>
  </p>
   
  
