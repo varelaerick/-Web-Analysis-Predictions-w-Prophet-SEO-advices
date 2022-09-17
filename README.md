@@ -72,7 +72,7 @@ By default, the Prophet() object will work hard to figure out almost everything 
 ##  Results
 
 <p align="center">
-<img src="img-tasks/graph-traffic-predictions" width="800" height="400">
+<img src="img-tasks/graph-traffic-predictions.png" width="800" height="400">
 </p>
 
 MSE for 30 days: 0.88
@@ -80,7 +80,7 @@ MSE for 303 days: 1.62
 
 
 <p align="center">
-<img src="img-tasks/graph-conv-predictions" width="800" height="400">
+<img src="img-tasks/graph-conv-predictions.png" width="800" height="400">
 </p>
 MSE for 30 days: 1.10
 MSE for 303 days: 2.04 
@@ -114,14 +114,14 @@ Once the mean goal of the SEO implementation is brand awareness and volume of tr
 The 10 top mean queries that should be prioritized are:
 
 <p align="center">
-<img src="img-tasks/pos-click" width="800" height="400">
+<img src="img-tasks/pos-click.png" width="800" height="400">
 </p>
 
 It should probably be the current company's strategy since the volume of organic sessions increased, and the conversion rate decreased through the last years. As the graph that represents the organic traffic and conversion rate shows.
 
 
 <p align="center">
-<img src="img-tasks/graph-convrate" width="800" height="400">
+<img src="img-tasks/graph-convrate.png" width="800" height="400">
 </p>
 
 ## Conclusion
