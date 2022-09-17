@@ -101,7 +101,7 @@ In my opinion, it is the most effective strategy in terms of conversions.
 Sorting the table descending by Position, impressions, and CTR, the 10 top queries that should be prioritized are:
 
 <p align="center">
-<img src="img-tasks/pos-impr-ctr" width="800" height="400">
+<img src="img-tasks/pos-impr-ctr.png" width="400" height="400">
 </p>
 
 
@@ -114,7 +114,7 @@ Once the mean goal of the SEO implementation is brand awareness and volume of tr
 The 10 top mean queries that should be prioritized are:
 
 <p align="center">
-<img src="img-tasks/pos-click.png" width="800" height="400">
+<img src="img-tasks/pos-click.png" width="400" height="400">
 </p>
 
 It should probably be the current company's strategy since the volume of organic sessions increased, and the conversion rate decreased through the last years. As the graph that represents the organic traffic and conversion rate shows.
